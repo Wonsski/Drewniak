@@ -6,6 +6,10 @@
 ## Project Overview
 This project involved the development of a Timberman-style arcade game where the player controls a lumberjack cutting down a tree while avoiding falling branches. The goal is to chop the tree as much as possible without colliding with any branches.
 
+<center>
+<img src="Screenshots/gameplay.gif">
+</center>
+
 ## Analysis
 
 ### Objective
