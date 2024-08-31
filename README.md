@@ -1,4 +1,4 @@
-# Timberman Game Project
+# Timberman type Game Project - Drewniak
 
 ## Author: Radosław 'Wonsski' Rajda
 **Date:** June, 2024  
